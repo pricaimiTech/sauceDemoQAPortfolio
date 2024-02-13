@@ -1,0 +1,10 @@
+{
+  "name": "sacedemo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Priscila Caimi",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^13.6.4"
+  }
+}
