@@ -46,10 +46,10 @@ yarn run cypress open
 
 ### Testes automatizados
 
-- Logar com sucesso ... em desenvolvimento
+- Logar com sucesso ... desenvolvido
 - Login Bloqueado  ... em desenvolvimento
-- Adicionar produtos ao carrinho ... em desenvolvimento
-- Checkout ... em desenvolvimento
+- Adicionar produtos ao carrinho ... desenvolvido
+- Checkout ... desenvolvido
 
 
 ## Entre em contato 
