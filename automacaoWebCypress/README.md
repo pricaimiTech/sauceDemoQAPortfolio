@@ -4,6 +4,7 @@ Este repositório está realizando a automação Web do site sauceDemo com o fra
 ### Tecnologias utilizadas
 - node version v18.16.1
 - Cypress
+- [ESLint](https://github.com/cypress-io/eslint-plugin-cypress)
 
 ### Documentações 
 
