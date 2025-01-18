@@ -6,11 +6,9 @@ Portfólio para o site saucedemo. Aqui você irá encontrar análise, plano de t
 ## Analise do Projeto + Plano de Teste + Execução + Abertura de Defeitos
 
 ### Tecnologias utilizadas
-- Notion 
+- Notion
 
-O template do projeto do Notion com analise, plano de teste, execução e abertura de defeitos pode ser adquirido pelo link [Kit de Estudo QA do Zero](https://priscilacaimi.notion.site/Kit-de-Estudo-QA-do-Zero-5d619cbbe23749818d6bb8cdbfa5f1ec)
-
-Quer aprender a ser um QA do absoluto zero? Estude comigo na udemy [Curso: Teste de Software Manual - Do Planejamento à Execução](https://www.udemy.com/course/teste-de-software-manual-do-planejamento-a-execucao/learn/lecture/39172076?referralCode=058FAC22ED178AF903A8#overview)
+Quer aprender a ser um QA do absoluto zero? Estude comigo na Qualiters Club [Sua formação do Zero a Automação](http://qualitersclub.com)
 
 <br> 
 
